@@ -15,6 +15,6 @@ This is a simple yet complete blog web application built using the Flask framewo
 # 🚀 Tech Stack
 
 - Backend: Python, Flask, Flask-WTF, Flask-Login, Flask-Mail
-- Database: SQLite (can be upgraded to PostgreSQL/MySQL)
+- Database: FLASK SQLAlchemy 
 - Frontend: HTML, Bootstrap 5
 - Deployment Ready: GitHub-hosted, Render-compatible
